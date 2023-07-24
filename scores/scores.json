@@ -1,0 +1,59 @@
+{
+  "idToTestNameHash": {
+    "MoTe1": "Modify Tests reads and logs the main heading text",
+    "MoTe2": "Modify Tests reads and logs the main text together in a comma separated string",
+    "MoTe3": "Modify Tests updates the subtitle",
+    "MoTe4": "Modify Tests should add an h1 to the body",
+    "MoTe5": "Modify Tests removes the old info",
+    "MoTe6": "Modify Tests should remove the bad-class and add the new-class",
+    "MoTe7": "Modify Tests reads the data attribute correctly to add the number of li elements",
+    "MoTe8": "Modify Tests Alphabet li elements have the right text content",
+    "MoTe9": "Modify Tests Add the bio content to the page",
+    "FrScTe1": "From Scratch Tests has only a script tag",
+    "FrScTe2": "From Scratch Tests Script tag links to an external script and has no content",
+    "FrScTe3": "From Scratch Tests has a script that creates an h1 with the right text",
+    "FrScTe4": "From Scratch Tests has a script that creates an p with the right text",
+    "FrScTe5": "From Scratch Tests has a script that creates an p with the right class"
+  },
+  "testNameToIdHash": {
+    "Modify Tests reads and logs the main heading text": "MoTe1",
+    "Modify Tests reads and logs the main text together in a comma separated string": "MoTe2",
+    "Modify Tests updates the subtitle": "MoTe3",
+    "Modify Tests should add an h1 to the body": "MoTe4",
+    "Modify Tests removes the old info": "MoTe5",
+    "Modify Tests should remove the bad-class and add the new-class": "MoTe6",
+    "Modify Tests reads the data attribute correctly to add the number of li elements": "MoTe7",
+    "Modify Tests Alphabet li elements have the right text content": "MoTe8",
+    "Modify Tests Add the bio content to the page": "MoTe9",
+    "From Scratch Tests has only a script tag": "FrScTe1",
+    "From Scratch Tests Script tag links to an external script and has no content": "FrScTe2",
+    "From Scratch Tests has a script that creates an h1 with the right text": "FrScTe3",
+    "From Scratch Tests has a script that creates an p with the right text": "FrScTe4",
+    "From Scratch Tests has a script that creates an p with the right class": "FrScTe5"
+  },
+  "testScores": {
+    "Modify Tests": {
+      "MoTe1": 0,
+      "MoTe2": 0,
+      "MoTe3": 0,
+      "MoTe4": 0,
+      "MoTe5": 0,
+      "MoTe6": 0,
+      "MoTe7": 0,
+      "MoTe8": 0,
+      "MoTe9": 0
+    },
+    "From Scratch Tests": {
+      "FrScTe1": 0,
+      "FrScTe2": 0,
+      "FrScTe3": 0,
+      "FrScTe4": 0,
+      "FrScTe5": 0
+    }
+  },
+  "humanReadable": {
+    "Modify Tests": "0/9",
+    "finalTestScore": "FINAL SCORE: 0/14",
+    "From Scratch Tests": "0/5"
+  }
+}
